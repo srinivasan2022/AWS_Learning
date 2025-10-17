@@ -10,6 +10,9 @@ This Terraform project provisions the following AWS infrastructure:
 * **Application Load Balancer (ALB)** forwarding HTTP traffic to EC2 instances
 * **Target group** and listener for load balancing HTTP requests
 
+## 🏗️ Architecture Diagram
+![aws-lb](Images/aws-lb.png)
+
 ## 📂 Project Structure
 
 ```
